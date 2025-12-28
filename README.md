@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/sunnyki0507/LeetCode/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/sunnyki0507/LeetCode/tree/master/0841-keys-and-rooms) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/sunnyki0507/LeetCode/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/sunnyki0507/LeetCode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 ## Graph
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/sunnyki0507/LeetCode/tree/master/0399-evaluate-division) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/sunnyki0507/LeetCode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 ## String
 |  |
 | ------- |
@@ -58,4 +60,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/sunnyki0507/LeetCode/tree/master/0399-evaluate-division) |
+## Matrix
+|  |
+| ------- |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/sunnyki0507/LeetCode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 <!---LeetCode Topics End-->
