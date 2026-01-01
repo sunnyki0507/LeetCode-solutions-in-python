@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/sunnyki0507/LeetCode/tree/master/0399-evaluate-division) |
 | [0994-rotting-oranges](https://github.com/sunnyki0507/LeetCode/tree/master/0994-rotting-oranges) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/sunnyki0507/LeetCode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/sunnyki0507/LeetCode/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2542-maximum-subsequence-score](https://github.com/sunnyki0507/LeetCode/tree/master/2542-maximum-subsequence-score) |
 ## String
 |  |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/sunnyki0507/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [2336-smallest-number-in-infinite-set](https://github.com/sunnyki0507/LeetCode/tree/master/2336-smallest-number-in-infinite-set) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/sunnyki0507/LeetCode/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2542-maximum-subsequence-score](https://github.com/sunnyki0507/LeetCode/tree/master/2542-maximum-subsequence-score) |
 ## Quickselect
 |  |
@@ -104,4 +106,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2542-maximum-subsequence-score](https://github.com/sunnyki0507/LeetCode/tree/master/2542-maximum-subsequence-score) |
+## Two Pointers
+|  |
+| ------- |
+| [2462-total-cost-to-hire-k-workers](https://github.com/sunnyki0507/LeetCode/tree/master/2462-total-cost-to-hire-k-workers) |
+## Simulation
+|  |
+| ------- |
+| [2462-total-cost-to-hire-k-workers](https://github.com/sunnyki0507/LeetCode/tree/master/2462-total-cost-to-hire-k-workers) |
 <!---LeetCode Topics End-->
