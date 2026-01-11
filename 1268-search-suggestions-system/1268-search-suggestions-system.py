@@ -25,7 +25,6 @@ class Solution(object):
         Not = False
         for ch in searchWord:
             string += ch
-            # print(string)
             trie = first
             for i in string:
                 if i not in trie:
