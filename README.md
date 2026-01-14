@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/sunnyki0507/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/sunnyki0507/LeetCode/tree/master/0136-single-number) |
 | [0198-house-robber](https://github.com/sunnyki0507/LeetCode/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sunnyki0507/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/sunnyki0507/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sunnyki0507/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0435-non-overlapping-intervals](https://github.com/sunnyki0507/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/sunnyki0507/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/sunnyki0507/LeetCode/tree/master/0088-merge-sorted-array) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/sunnyki0507/LeetCode/tree/master/2462-total-cost-to-hire-k-workers) |
 ## Simulation
 |  |
