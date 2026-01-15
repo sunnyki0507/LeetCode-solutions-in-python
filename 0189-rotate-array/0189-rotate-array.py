@@ -1,23 +1,31 @@
 class Solution(object):
     def rotate(self, nums, k):
+        lists = [0]* len(nums)
         l = k % len(nums)
-        if l < 1:
-            return
         nums.reverse()
-        for i in range(int(l/2)):
-            print(int(k/2))
-            first = nums[i]
-            last = nums[l-1-i]
-            nums[i] = last
-            nums[l-i-1] = first
-        j = 1
-        for i in range(l, ((len(nums)-l)/2)+l):
-            print(i)
-            first = nums[i]
-            last = nums[len(nums)-j]
-            nums[i] = last
-            nums[len(nums)-j] = first
-            j += 1
+        nums[0:l] = reversed(nums[0:l])
+        nums[l:len(nums)] = reversed(nums[l:len(nums)])
+
+
+
+        # l = k % len(nums)
+        # if l < 1:
+        #     return
+        # nums.reverse()
+        # for i in range(int(l/2)):
+        #     print(int(k/2))
+        #     first = nums[i]
+        #     last = nums[l-1-i]
+        #     nums[i] = last
+        #     nums[l-i-1] = first
+        # j = 1
+        # for i in range(l, ((len(nums)-l)/2)+l):
+        #     print(i)
+        #     first = nums[i]
+        #     last = nums[len(nums)-j]
+        #     nums[i] = last
+        #     nums[len(nums)-j] = first
+        #     j += 1
 
 
 
