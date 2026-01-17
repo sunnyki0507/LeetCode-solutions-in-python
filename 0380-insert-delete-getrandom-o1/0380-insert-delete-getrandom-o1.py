@@ -1,40 +1,76 @@
 class RandomizedSet(object):
 
     def __init__(self):
-        self.random = []
-        
+        # Store the index of each val in self.arr.
+        self.indices = {}
+        # Store all vals.
+        self.arr = []
 
     def insert(self, val):
-        if val not in self.random:
-            self.random.append(val)
-            return True
-        else:
-            return False
-        """
-        :type val: int
-        :rtype: bool
-        """
+        # Return False if val is already present as requested.
+        if val in self.indices: return False
         
+        # Append val to the array.
+        # Store its index in the hashmap
+        self.arr.append(val)
+        self.indices[val] = len(self.arr)-1
+        return True
+    
     def remove(self, val):
-        if val not in self.random:
-            return False
-        else:
-            self.random.remove(val)
-            # idx = self.random.index(val)
-            # self.random.pop(idx)
-            return True
-
-        """
-        :type val: int
-        :rtype: bool
-        """
+        # Return False if val is not present as requested.
+        if val not in self.indices: return False
         
+        # Get the index of the val that needs to be removed.
+        i = self.indices[val]
+        
+        # Update the index of arr[-1] in the indices.
+        self.indices[self.arr[-1]] = i
+        
+        # Move the last element to the i th position.
+        self.arr[i] = self.arr[-1]
+        
+        # remove the last element, and remove the index of val
+        self.indices.pop(val)
+        self.arr.pop()
+        
+        return True
 
     def getRandom(self):
-        return random.choice(self.random)
-        """
-        :rtype: int
-        """
+        return random.choice(self.arr)
+
+    # def __init__(self):
+    #     self.random = []
+        
+
+    # def insert(self, val):
+    #     if val not in self.random:
+    #         self.random.append(val)
+    #         return True
+    #     else:
+    #         return False
+    #     """
+    #     :type val: int
+    #     :rtype: bool
+    #     """
+        
+    # def remove(self, val):
+    #     if val not in self.random:
+    #         return False
+    #     else:
+    #         self.random.remove(val)
+    #         return True
+
+    #     """
+    #     :type val: int
+    #     :rtype: bool
+    #     """
+        
+
+    # def getRandom(self):
+    #     return random.choice(self.random)
+    #     """
+    #     :rtype: int
+    #     """
         
 
 
