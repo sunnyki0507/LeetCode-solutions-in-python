@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/sunnyki0507/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0450-delete-node-in-a-bst](https://github.com/sunnyki0507/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/sunnyki0507/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [1268-search-suggestions-system](https://github.com/sunnyki0507/LeetCode/tree/master/1268-search-suggestions-system) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/sunnyki0507/LeetCode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/sunnyki0507/LeetCode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/sunnyki0507/LeetCode/tree/master/0136-single-number) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/sunnyki0507/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/sunnyki0507/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/sunnyki0507/LeetCode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/sunnyki0507/LeetCode/tree/master/0198-house-robber) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/sunnyki0507/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/sunnyki0507/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/sunnyki0507/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/sunnyki0507/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/sunnyki0507/LeetCode/tree/master/0189-rotate-array) |
 | [0392-is-subsequence](https://github.com/sunnyki0507/LeetCode/tree/master/0392-is-subsequence) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/sunnyki0507/LeetCode/tree/master/2462-total-cost-to-hire-k-workers) |
